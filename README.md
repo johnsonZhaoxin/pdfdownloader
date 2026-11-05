@@ -43,9 +43,7 @@
 
 ## 截图
 
-> 建议放一张程序界面截图到 `docs/screenshot.png`，然后取消下一行注释。
->
-> `![screenshot](docs/screenshot.png)`
+
 
 ---
 
@@ -70,7 +68,7 @@ wxPython>=4.2
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/pdf-downloader.git
+git clone https://github.com/johnsonZhao/pdf-downloader.git
 cd pdf-downloader
 pip install -r requirements.txt
 ```
