@@ -1,0 +1,25 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---- 虚拟环境 ----
+venv/
+.venv/
+env/
+
+# ---- 编辑器 ----
+.vscode/
+.idea/
+*.swp
+
+# ---- 本项目产物 ----
+downloads/
+*.pdf
+*.part
+*.log
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
